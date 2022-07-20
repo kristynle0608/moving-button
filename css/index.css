@@ -1,10 +1,7 @@
-#no {
-    position: absolute;
-    top: 0;
-}
 
 .button {
     padding: 5px;
+    display: inline-block;
 }
 
 .center {
