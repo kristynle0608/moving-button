@@ -16,3 +16,6 @@ I saw a video on Instagram that shows a similar project to this one. I found it 
   - Bootstrap (v5.2.0)
 - JavaScript
   - jQuery
+
+## Credits
+[Math.random() - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random "Math.random() - JavaScript | MDN")
