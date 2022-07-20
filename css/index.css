@@ -1,10 +1,15 @@
 .label {
-    margin-bottom: 15px;
-    font-size: 30px;
+    margin-bottom: 20px;
+    font-size: 50px;
 }
 
 #yes {
-    margin-left: 39px;
+    margin-left: 90px;
+    font-size: 30px;
+}
+
+#no {
+    font-size: 30px;
 }
 
 .center {
