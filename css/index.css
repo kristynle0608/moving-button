@@ -1,7 +1,18 @@
+.label {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
 
 .button {
     padding: 5px;
     display: inline-block;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#yes {
+    margin-left: 25px;
 }
 
 .center {
