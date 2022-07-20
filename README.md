@@ -7,3 +7,12 @@ Moving Button
 
 ## Inspiration for this Project
 I saw a video on Instagram that shows a similar project to this one. I found it pretty fun to create, so I planned to recreate it at some point. The only difference is the project in the video was done as Python GUI; I recreated it by using HTML, CSS, and JS.
+
+## Technologies/Languages that I used to Build This Project
+- Visual Studio Code
+  - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer "Live Server - Visual Studio Marketplace")
+- HTML
+- CSS
+  - Bootstrap (v5.2.0)
+- JavaScript
+  - jQuery
